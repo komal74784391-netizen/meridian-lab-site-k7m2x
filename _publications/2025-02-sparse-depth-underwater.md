@@ -4,7 +4,7 @@ authors: "M. Bergstrom, L. Ferreira, A. Novak"
 venue: "IEEE International Conference on Robotics and Automation (ICRA)"
 year: 2025
 status: "accepted"
-codeurl: "https://github.com/komal74784391-netizen/sparse-depth-uwnet-k7m2x"
+codeurl: "https://github.com/orbital-robotics-lab/uwnet-sparse-depth"
 abstract: >-
   Underwater inspection platforms usually carry a single-beam sonar and a
   monocular camera. We combine both into a sparse-to-dense depth estimator
