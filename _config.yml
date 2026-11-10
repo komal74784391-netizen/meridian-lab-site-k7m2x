@@ -1,0 +1,8 @@
+title: Meridian Perception Lab
+description: Perception and state estimation for field robotics
+baseurl: ""
+url: "https://meridian-lab.example"
+collections:
+  publications:
+    output: true
+markdown: kramdown

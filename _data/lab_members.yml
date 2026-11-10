@@ -1,0 +1,15 @@
+- name: Noor Haddad
+  role: PhD student
+  focus: event-based depth sensing
+- name: Teodor Ilić
+  role: Research engineer
+  focus: multi-sensor calibration
+- name: Wren Kobayashi
+  role: PhD student
+  focus: neuromorphic perception
+- name: Sana Qureshi
+  role: Postdoctoral researcher
+  focus: robust depth estimation
+- name: Dmitri Volkov
+  role: PhD student
+  focus: grasp learning
